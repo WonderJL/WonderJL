@@ -15,6 +15,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeff-leung-lab)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827.svg?logo=githubpages&logoColor=white)](https://wonderjl.github.io)
 
 # 💻 Tech Stack:
 **Agentic AI / Agent Platforms**<br>
