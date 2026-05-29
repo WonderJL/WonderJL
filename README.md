@@ -58,6 +58,6 @@
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WonderJL&theme=github_dark)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WonderJL&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WonderJL&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WonderJL&theme=github)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WonderJL&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WonderJL&theme=github)
