@@ -1,6 +1,7 @@
 # 💫 About Me:
 🚀 **What I build:** agentic-AI infrastructure — MCP servers, Agent-to-Agent (A2A JSON-RPC) integrations, Hedera Agent Kit plugins, on-chain agent identity via ERC-8004, and developer tooling that makes LLM systems shippable.<br><br>
 💡 **Open to collaborate on:** multi-agent orchestration, MCP tool design, A2A protocol work, agent identity, RAG systems, and platform-engineering for LLM apps.<br><br>
+⚡ **Token optimization:** designing prompt-caching, context-window discipline, and multi-host tooling that keeps agentic-AI systems cheap to run at scale.<br><br>
 🌱 **Currently learning:** long-horizon agent planning, eval-harness design, RAG retrieval quality, and Rust on the platform edges.<br><br>
 🛠️ **How I work:** 10+ yrs of platform / full-stack engineering. Senior IC who ships end-to-end — from schema design and protocol choices through production deploys and developer adoption.<br><br>
 💬 **Ask me about:** #AgenticAI #LLMSystems #MCP #A2A #HederaAgentKit #ERC8004 #PlatformEngineering #TypeScript #NodeJS #Rust
